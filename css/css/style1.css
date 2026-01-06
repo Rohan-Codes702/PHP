@@ -1,0 +1,26 @@
+h1 {
+  color: red;
+  font-size: 20px;
+}
+h2 {
+  color: red;
+  font-size: 18px;
+}
+p {
+  font-size: 15px;
+  text-align: justify;
+}
+.btn {
+  font-size: medium;
+  background-color: brown;
+  padding: 10px;
+}
+th{
+    font-size: 14px;
+    color: red;
+}
+
+td{
+ font-size: 13px;
+ color: blue;
+}
